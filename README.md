@@ -13,7 +13,8 @@ Sendo o primeiro catálogo e classificado on-line automobilístico brasileiro, d
 
 # 2 Apresentação
 Nesse projeto, propus um modelo de classificação com o objetivo de predizer se alguns anúncios são capazes de obterem leads ou não.Um
-lead é uma demonstração de interesse de um comprador para um vendedor. A fim de melhorar o desempenho dos anúncios, obtivemos ótimos resultados.
+lead é uma demonstração de interesse de um comprador para um vendedor. A fim de melhorar o desempenho dos anúncios, obtivemos ótimos resultados. Algumas informações foram coletadas neste link:
+<a href="[https://github.com/hugoferraz5/Webmotors_leads/blob/main/Classifica%C3%A7%C3%A3o_webmotors.ipynb](https://www.webmotors.com.br/wm1/dinheiro-e-economia/webmotors-revoluciona-compra-venda#:~:text=A%20Webmotors%20cobra%201%2C5,um%20custeando%200%2C75%25.)">siteWebmotors</a>
 
 O projeto completo pode ser encontrado neste link:
 <a href="https://github.com/hugoferraz5/Webmotors_leads/blob/main/Classifica%C3%A7%C3%A3o_webmotors.ipynb">Webmotors</a>
