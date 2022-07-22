@@ -5,7 +5,7 @@ Projeto com o objetivo de melhorar o desempenho dos anúncios para potencializar
 <img src="https://user-images.githubusercontent.com/91911052/180570055-64d32e4f-9123-4afa-a84b-6ab0cc5091ba.jpg" width="700px" />
 </div>
 
-## 1.1 O que é a Webmotors e a venda online de veículos?
+## 1 O que é a Webmotors e a venda online de veículos?
 * A Webmotors foi criada em 1995 e foi a primeira startup brasileira de abrangência nacional a oferecer uma forma de comprar e vender carros e motos totalmente on-line.
 Sendo o primeiro catálogo e classificado on-line automobilístico brasileiro, definição inicial da Webmotors, a empresa foi idealizada por Sylvio de Barros e desenvolvida com Marcelo Zamprogna Krug e a Team Systems, empresa de soluções para internet no Brasil.
 * Os dados mostram que 2021, a venda online em todas as plataformas de vendas somadas tiveram um aumento de apenas 3% na venda de carros em relação ao ano anterior, 2020, totalizando 2,120 milhões de unidades no país.
@@ -143,9 +143,36 @@ Usamos vários modelos de Machine Learning de classificação com o objetivo de 
 <img src="https://user-images.githubusercontent.com/91911052/180574833-5afc4876-a3f4-4dfd-8456-fa686dae93c4.jpg" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
+
+
 Se observarmos na matriz de confusão, o modelo **CatBoostClassifier** é um dos que tem melhor f1-score  que é bastante importante, mas pesou o fato de o modelo **KNeighborsClassifier** possuir uma precisão(precision) mais alta baixa, então se torna  um motivo do **KNeighborsClassifier** ser o escolhido.
 
 <img src="https://user-images.githubusercontent.com/91911052/180574133-a8b7c61a-3935-4830-a16b-64965018cd57.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
+
+## 6.1 Resultados para o negócio
+A principal ferramenta do Autopago, solução de tecnologia da **Webmotors**, está na segurança, pois acaba com os riscos das transações entre pessoas físicas, protegendo comprador e vendedor, uma vez que o dinheiro do comprador permanece em uma conta segura da Webmotors e só é depositado ao vendedor 24 horas após o negócio seer concretizado.
+
+**A Webmotors cobra 1,5% do valor do veículo. Este custo pode ficar a cargo do comprador, ou do vendedor, ou mesmo os dois podem dividir o montante, com cada um custeando 0,75%.**
+
+ 
+
+
+
+O modelo **KNeighborsClassifier** possui a menor porcentagem de falsos positivos(precision), ou seja, afirmamos com mais precisão que os dados aplicados possuem leads corretamente, erramos muito menos. Por outro lado, observamos que possui alta taxa de falsos negativos(recall), mas é melhor errarmos afirmando que não tem leads quando na verdade tem (se errarmos, erramos positivamente), do que afirmarmos que possui leads sem ter, pois corremos o risco de contar algum lucro sem ter e não tomaremos nenhuma atitude para melhorar.
+
+| Predição                | Real               | Resultado                  | 
+:------------------------ | :------------------| :------------------------- | 
+| Obteve lead(s)          | Não obteve lead(s) | Sem monetização e prejuízo | 
+| Não obteve lead(s)      | Obteve lead(s)     | Monetização e sem prejuízo | 
+
+
+## 6.2 Desempenho de Machine Learning
+
+O modelo usado foi o **KNeighborsClassifier** e os resultados obtidos foram esses abaixo:
+
+|Modelo               | Precisão             | Revocação           |f1-score              | ROC AUC            |  
+:-------------------- | :--------------------| :------------------ | :--------------------| :------------------| 
+|KNeighborsClassifier | 0.9394 (+/- 0.0091)  | 0.6377 (+/- 0.0136) | 0.7596 (+/- 0.0092)  |0.9064 (+/- 0.0060) |             
 
 
