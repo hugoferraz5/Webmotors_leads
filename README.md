@@ -16,7 +16,7 @@ Nesse projeto, propus um modelo de classificação com o objetivo de predizer se
 lead é uma demonstração de interesse de um comprador para um vendedor. A fim de melhorar o desempenho dos anúncios, obtivemos ótimos resultados.
 
 O projeto completo pode ser encontrado neste link:
-<a hrefhttps://github.com/hugoferraz5/Webmotors_leads/blob/main/Classifica%C3%A7%C3%A3o_webmotors.ipynb">Webmotors</a>
+<a href="https://github.com/hugoferraz5/Webmotors_leads/blob/main/Classifica%C3%A7%C3%A3o_webmotors.ipynb">Projeto_Cardio_1</a>
 
 |Atributo | Definição
 ------------ | -------------
