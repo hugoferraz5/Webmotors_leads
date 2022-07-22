@@ -85,6 +85,10 @@ O projeto completo pode ser encontrado neste link:
 <img src="https://user-images.githubusercontent.com/91911052/180575067-91f97aa7-1761-454f-8d2c-d346764e4d01.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
+<img src="https://user-images.githubusercontent.com/91911052/180576381-766a78d8-9680-4232-ac5d-bcf3cb2a8a17.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
+
 **Variável Numérica**
 <img src="https://user-images.githubusercontent.com/91911052/180575242-615a42ab-6db3-46c9-b573-631a5eee1d09.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
