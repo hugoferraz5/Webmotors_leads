@@ -185,7 +185,7 @@ O modelo usado foi o **LGBMClassifier** e os resultados obtidos foram esses abai
 * Melhorar os desempenhos de Machine Learning
 * Melhorar as análises de dados
 * Usar ferramentas para uso de uma API futuramente.
-* 
+  
 # 8 Ferramentas utilizadas
 
 Manipulação e limpeza dos dados: pandas, numpy
