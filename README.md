@@ -83,31 +83,31 @@ O projeto completo pode ser encontrado neste link:
 
 # 5 Análises exploratórias dos dados
 **Variável de Destino**
-<img src="https://user-images.githubusercontent.com/91911052/180575067-91f97aa7-1761-454f-8d2c-d346764e4d01.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/2ca4f66a-2e52-410c-8674-2d6fd0f5c47e.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://user-images.githubusercontent.com/91911052/180576381-766a78d8-9680-4232-ac5d-bcf3cb2a8a17.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/72204983-c290-401a-baa0-a9263000d991.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 
 **Variável Numérica**
-<img src="https://user-images.githubusercontent.com/91911052/180575242-615a42ab-6db3-46c9-b573-631a5eee1d09.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/8867efd8-74f0-4d2d-8b1b-cdc0c4f1c497.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://user-images.githubusercontent.com/91911052/180575283-981d7937-b105-4c8d-973c-dd34a5cbb399.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/ea3bd12f-6d87-4558-9f31-4b757b04096d.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 **Variável Categórica**
-<img src="https://user-images.githubusercontent.com/91911052/180575328-4f8b6f7c-52f5-42cb-92e9-bf1d8707a358.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/66ce2ad9-91ba-4907-bad7-6d231ecffa02.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://user-images.githubusercontent.com/91911052/180575377-e3c17189-9bce-488f-9f6e-e41f410b2c23.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/d2fdf1cc-8707-4f5d-8518-c8eba37795c3.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://user-images.githubusercontent.com/91911052/180575422-5f3e65dd-6491-4339-b458-fb9a4989a007.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/00525bf8-5918-4619-84fb-ec4a6ed4a8ca.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://user-images.githubusercontent.com/91911052/180575458-871285be-833a-45c2-a40d-5dcad2710136.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/94f190f2-fd82-4a14-8bff-7b673e9b5bf1.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 
@@ -116,43 +116,43 @@ O projeto completo pode ser encontrado neste link:
 * **H1**. A quantidade de leads do Rio de Janeiro mantém a mesma posição(2º) do somatório de leads por Estado
 
 **Falso**: Observamos que num único anúncio, o estado do Rio de Janeiro(2º) possui, em média, mais leads que o Paraná por exemplo, mas tem menos quantidade de anúncio. Precisamos melhorar o desempenho no Paraná e aumentar a quantidade de anúncio no Rio de Janeiro.
-<img src="https://user-images.githubusercontent.com/91911052/180575511-86777a58-bb06-4af7-b2c7-98547d1155b8.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/c772cd7e-109c-44ea-9f68-0cb5ccd2ce66.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 * **H2**. A ordem de quantidade de leads por cidade é o mesmo do somatório de leads.
 
 **Falso**: Obersamos que a cidade de Campinas é o 3º em somatório de leads, mas não está no ranking das 5 cidades em quantidade de leads. Precisamos melhorar os anúncios de algumas cidades como Curitiba, Brasília e Belo Horizonte, além de fazer mais anúncios em Campinas.
 
-<img src="https://user-images.githubusercontent.com/91911052/180575571-5aea5263-5676-4204-abc8-6928bdd94f78.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/5bc1d3bd-344e-426c-832a-9fbd629f828b.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 * **H3**.Pessoa Jurídica tem mais somatório de leads que Pessoa Física.
 
 **Verdadeiro**:Observamos que é verdade. Mesmo assim, precisamos melhorar o desempenho dos anúncios de Pessoa Jurídica, pois possui muitos anúncios, mas em somatórios, a proporçaõ é menor.
 
-<img src="https://user-images.githubusercontent.com/91911052/180575654-00bb9a1c-ae00-407d-9393-0fefa6ceaedd.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/906dd878-c971-48b3-b5d8-0fd349027eeb.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 * **H4**. Anúncio com alta prioridade tem mais somatório de leads devido à urgência na venda.
 
 **Falso**: Percebemos que é falso, pois anúncios com baixa prioridade tem mais somatório de leads. Independente disso, a proporção de prioridades é parecida quando comparada quantidade de leads e somatório de leads. Precisamos ter mais anúncios em ambas para obter mais leads.
 
-<img src="https://user-images.githubusercontent.com/91911052/180575701-893b92fa-5684-4831-a0ab-f7527ff03f48.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/29a5bc1e-cbea-41a1-b033-37a167196037.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 
 # 6 Machine Learning
 
-Usamos vários modelos de Machine Learning de classificação com o objetivo de obter a melhor acurácia e a menor quantidade de falsos positivos. Pelo lado dos anunciantes é importante a menor quantidade posível dos **falsos positivos**(precision) também, pois o modelo estará mostrando que o anúncio obteve leads mais precisamente.Observamos que possui alta taxa de falsos negativos(recall), mas é melhor errarmos afirmando que não tem leads. O f1-score que é o equilíbrio entre revocação(recall) e precisão(precision) não foi o maior no modelo **KNeighborsClassifier**, mas pesou o fato da **precision**(precisão) ser maior.
+Usamos vários modelos de Machine Learning de classificação com o objetivo de obter a melhor acurácia e a menor quantidade de falsos positivos.**LGBMClassifier** , **CatBoostClassifier** e **XGBClassifier** foram os que possuem melhores acurácias do F1-Score que é o que procuramos e é o equilíbrio entre revocação(recall) e precisão(precision). Os três algoritmos possuem **precision**(precisão) altos e resultados bem parecidos, mas escolhemos o **LGBMClassifier** por ter uma velocidade maior no processamento. Pelo lado dos anunciantes é importante a menor quantidade posível dos **falsos positivos**(precision) também, pois o modelo estará mostrando que o anúncio obteve leads mais precisamente.Observamos que possuem alta taxa de falsos negativos(recall), mas é melhor errarmos afirmando que não tem leads. 
 
-<img src="https://user-images.githubusercontent.com/91911052/180574833-5afc4876-a3f4-4dfd-8456-fa686dae93c4.jpg" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/7de32533-449b-4507-9a67-8138bae54d49.jpg" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 
 
-Se observarmos na matriz de confusão, o modelo **CatBoostClassifier** é um dos que tem melhor f1-score  que é bastante importante, mas pesou o fato de o modelo **KNeighborsClassifier** possuir uma precisão(precision) mais alta baixa, então se torna  um motivo do **KNeighborsClassifier** ser o escolhido.
+Se observarmos na matriz de confusão, esses 3 modelos possuem bons f1-score  que é bastante importante e uma precisão(precision) mais alta , então qualquer um poderia ser o escolhido.
 
-<img src="https://user-images.githubusercontent.com/91911052/180574133-a8b7c61a-3935-4830-a16b-64965018cd57.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/d4329878-6cd9-4d06-a2b0-d5fc79139a1c.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 ## 6.1 Resultados para o negócio
@@ -164,7 +164,7 @@ A principal ferramenta do Autopago, solução de tecnologia da **Webmotors**, es
 
 
 
-O modelo **KNeighborsClassifier** possui a menor porcentagem de falsos positivos(precision), ou seja, afirmamos com mais precisão que os dados aplicados possuem leads corretamente, erramos muito menos. Por outro lado, observamos que possui alta taxa de falsos negativos(recall), mas é melhor errarmos afirmando que não tem leads quando na verdade tem (se errarmos, erramos positivamente), do que afirmarmos que possui leads sem ter, pois corremos o risco de contar algum lucro sem ter e não tomaremos nenhuma atitude para melhorar.
+Como o modelo **LGBMClassifier** foi o escolhido entre os 3 pela rapidez no processamento e por possui a baixa porcentagem de falsos positivos(precision alta), ou seja, afirmamos com mais precisão que os dados aplicados possuem leads corretamente, erramos muito menos. Por outro lado, observamos que possui taxa maior de falsos negativos(recall baixo), mas é melhor errarmos afirmando que não tem leads quando na verdade tem (se errarmos, erramos positivamente), do que afirmarmos que possui leads sem ter, pois corremos o risco de contar algum lucro sem ter e não tomaremos nenhuma atitude para melhorar.
 
 | Predição                | Real               | Resultado                  | 
 :------------------------ | :------------------| :------------------------- | 
@@ -174,10 +174,22 @@ O modelo **KNeighborsClassifier** possui a menor porcentagem de falsos positivos
 
 ## 6.2 Desempenho de Machine Learning
 
-O modelo usado foi o **KNeighborsClassifier** e os resultados obtidos foram esses abaixo:
+O modelo usado foi o **LGBMClassifier** e os resultados obtidos foram esses abaixo:
 
 |Modelo               | Precisão             | Revocação           |f1-score              | ROC AUC            |  
 :-------------------- | :--------------------| :------------------ | :--------------------| :------------------| 
-|KNeighborsClassifier | 0.9394 (+/- 0.0091)  | 0.6377 (+/- 0.0136) | 0.7596 (+/- 0.0092)  |0.9064 (+/- 0.0060) |             
+|LGBMClassifier       | 0.8366 (+/- 0.3965   | 0.9972 (+/- 0.0112  | 0.8955 (+/- 0.2607   |0.8905 (+/- 0.3083 |             
 
+# 7 Próximos passos
+* Importante obter mais informações dos clientes para colocar na base de dados.
+* Melhorar os desempenhos de Machine Learning
+* Melhorar as análises de dados
+* Usar ferramentas para uso de uma API futuramente.
+* 
+# 8 Ferramentas utilizadas
 
+Manipulação e limpeza dos dados: pandas, numpy
+
+Visualização dos dados: matplotlib, seaborn
+
+Machine learning: Classificação (scikit-learn e LGBMClassifier), seleção de features (Extra Tree Classifier) e balanceamento dos dados(SMOTETomek)
