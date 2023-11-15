@@ -164,7 +164,7 @@ A principal ferramenta do Autopago, solução de tecnologia da **Webmotors**, es
 
 
 
-Como o modelo **LGBMClassifier** foi o escolhido entre os 3 pela rapidez no processamento e por possui a baixa porcentagem de falsos positivos(precision alta), ou seja, afirmamos com mais precisão que os dados aplicados possuem leads corretamente, erramos muito menos. Por outro lado, observamos que possui taxa maior de falsos negativos(recall baixo), mas é melhor errarmos afirmando que não tem leads quando na verdade tem (se errarmos, erramos positivamente), do que afirmarmos que possui leads sem ter, pois corremos o risco de contar algum lucro sem ter e não tomaremos nenhuma atitude para melhorar.
+Como o modelo **LGBMClassifier** foi o escolhido entre os 3 pela rapidez no processamento e por possuir baixa porcentagem de falsos positivos(precision alta), ou seja, afirmamos com mais precisão que os dados aplicados possuem leads corretamente, erramos muito menos. Por outro lado, observamos que possui taxa maior de falsos negativos(recall baixo), mas é melhor errarmos afirmando que não tem leads quando na verdade tem (se errarmos, erramos positivamente), do que afirmarmos que possui leads sem ter, pois corremos o risco de contar algum lucro sem ter e não tomaremos nenhuma atitude para melhorar.
 
 | Predição                | Real               | Resultado                  | 
 :------------------------ | :------------------| :------------------------- | 
