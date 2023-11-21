@@ -83,61 +83,73 @@ O projeto completo pode ser encontrado neste link:
 
 # 5 Análises exploratórias dos dados
 **Variável de Destino**
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/2ca4f66a-2e52-410c-8674-2d6fd0f5c47e.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/fb55a5f5-a4ec-4637-98cd-3b39fe2d4c1d.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/72204983-c290-401a-baa0-a9263000d991.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/0e10f09e-ebfe-460c-b977-012d24d35b66.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 
 **Variável Numérica**
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/8867efd8-74f0-4d2d-8b1b-cdc0c4f1c497.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/db5fe013-e1b8-4458-b312-2f73a49cc975.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/ea3bd12f-6d87-4558-9f31-4b757b04096d.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/59acb9f3-5702-4322-a419-bf53bd2ccfc9.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 **Variável Categórica**
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/66ce2ad9-91ba-4907-bad7-6d231ecffa02.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/9e427fcc-eb7d-4889-9dcd-86072d1ff2a7.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/d2fdf1cc-8707-4f5d-8518-c8eba37795c3.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/a812850d-9f38-4c53-9451-dc142014eddd.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/00525bf8-5918-4619-84fb-ec4a6ed4a8ca.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/3fd62bd1-0b53-4137-90ed-fab650719b03.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/94f190f2-fd82-4a14-8bff-7b673e9b5bf1.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/db84971f-e77a-42bc-98bd-31cdf5af7b3e.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/57917aac-35bb-40ed-aac8-100c334be622.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 
 ## Insights de negócio
 
-* **H1**. A quantidade de leads do Rio de Janeiro mantém a mesma posição(2º) do somatório de leads por Estado
+* **H1**. Aumentar o investimento em anúncios e veículos com quilometragem mais baixa resultará em um aumento proporcional no número de leads gerados.
 
-**Falso**: Observamos que num único anúncio, o estado do Rio de Janeiro(2º) possui, em média, mais leads que o Paraná por exemplo, mas tem menos quantidade de anúncio. Precisamos melhorar o desempenho no Paraná e aumentar a quantidade de anúncio no Rio de Janeiro.
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/c772cd7e-109c-44ea-9f68-0cb5ccd2ce66.png" alt="pic1" style="zoom:60% ;" />
+**Falso**: Ambas variáveis não tem nenhuma correlação, mas a maioria dos leads são de veículos com quilometragem baixa ou valor de anúncios mais baixos.
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/534415f4-6b88-46e1-b656-26cd5b150a8e.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-* **H2**. A ordem de quantidade de leads por cidade é o mesmo do somatório de leads.
-
-**Falso**: Obersamos que a cidade de Campinas é o 3º em somatório de leads, mas não está no ranking das 5 cidades em quantidade de leads. Precisamos melhorar os anúncios de algumas cidades como Curitiba, Brasília e Belo Horizonte, além de fazer mais anúncios em Campinas.
-
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/5bc1d3bd-344e-426c-832a-9fbd629f828b.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/ea1c6b4b-3c72-4690-b86a-31723adfafe2.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-* **H3**.Pessoa Jurídica tem mais somatório de leads que Pessoa Física.
+* **H2**. A quantidade de leads mantém a mesma posição do somatório de leads por Estado.
+
+**Falso**: Obersamos que num único anúncio, o estado do Rio de Janeiro possui mais leads que o Paraná por exemplo, mas tem menos quantidade de anúncio.Por outro lado Santa Catarina tem mais quantidade de leads, mas possui o somatório menor. Precisamos melhorar o desempenho no Paraná, Santa Catarina e aumentar a quantidade de anúncio no Rio de Janeiro por exemplo.
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/115e57c8-fc9d-4642-b6f3-378fabdb5c11.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
+* **H3**. A ordem de quantidade de leads é o mesmo do somatório de leads por cidade.
+
+**Falso**: Obersamos que a cidade de Campinas é o 3º em somatório de leads, mas não está no ranking das 5 cidades em quantidade de leads. Precisamos melhorar os anúncios de algumas cidades como Curitiba, Brasília e Belo Horizonte, além de fazer mais anúncios em Campinas por exemplo.
+
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/20ccb4f1-b46f-4ee3-b61c-8a1d446e7530.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
+* **H4**.Pessoa Jurídica tem mais somatório de leads que Pessoa Física.
 
 **Verdadeiro**:Observamos que é verdade. Mesmo assim, precisamos melhorar o desempenho dos anúncios de Pessoa Jurídica, pois possui muitos anúncios, mas em somatórios, a proporçaõ é menor.
 
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/906dd878-c971-48b3-b5d8-0fd349027eeb.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/83a992c1-e221-4d47-9fb6-a1fc5394a9af.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-* **H4**. Anúncio com alta prioridade tem mais somatório de leads devido à urgência na venda.
+* **H5**. Anúncio com alta prioridade tem mais somatório de leads devido à urgência na venda.
 
 **Falso**: Percebemos que é falso, pois anúncios com baixa prioridade tem mais somatório de leads. Independente disso, a proporção de prioridades é parecida quando comparada quantidade de leads e somatório de leads. Precisamos ter mais anúncios em ambas para obter mais leads.
 
-<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/29a5bc1e-cbea-41a1-b033-37a167196037.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/6d5437b8-a0f8-462c-af98-01ffd21b5ca4.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 
