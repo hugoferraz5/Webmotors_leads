@@ -119,6 +119,7 @@ O projeto completo pode ser encontrado neste link:
 * **H1**. Aumentar o investimento em anúncios e veículos com quilometragem mais baixa resultará em um aumento proporcional no número de leads gerados.
 
 **Falso**: Ambas variáveis não tem nenhuma correlação, mas a maioria dos leads são de veículos com quilometragem baixa ou valor de anúncios mais baixos.
+
 <img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/534415f4-6b88-46e1-b656-26cd5b150a8e.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
@@ -128,6 +129,7 @@ O projeto completo pode ser encontrado neste link:
 * **H2**. A quantidade de leads mantém a mesma posição do somatório de leads por Estado.
 
 **Falso**: Obersamos que num único anúncio, o estado do Rio de Janeiro possui mais leads que o Paraná por exemplo, mas tem menos quantidade de anúncio.Por outro lado Santa Catarina tem mais quantidade de leads, mas possui o somatório menor. Precisamos melhorar o desempenho no Paraná, Santa Catarina e aumentar a quantidade de anúncio no Rio de Janeiro por exemplo.
+
 <img src="https://github.com/hugoferraz5/Webmotors_leads/assets/91911052/115e57c8-fc9d-4642-b6f3-378fabdb5c11.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
